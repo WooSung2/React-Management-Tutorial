@@ -1,5 +1,6 @@
 # Management System
 본 프로그램은 고객 관리 시스템(Management System)입니다.
+튜토리얼용입니다.
 
 
 
